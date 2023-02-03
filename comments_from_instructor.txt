@@ -1,0 +1,18 @@
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This looks pretty good, Patrick. You had more than your share of
+challenges, getting git up and connected to GitHub on your laptop--
+thanks for your patience and diligence in working through all of 
+that. 
+
+Hopefully you have a little bit of an idea on how git works now.
+Enough that you'll run screaming from the room the next time somebody
+mentions `git`. 
+
+SCORE: 20/20
+
+*/
+
